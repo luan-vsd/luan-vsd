@@ -29,15 +29,15 @@
 
 ## 📂 Projetos em Destaque
 
-[![Agrofit Analysis](https://github-readme-stats.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=radical)](https://github.com/luan-vsd/Analise-Agrofit)
+[![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=radical)](https://github.com/luan-vsd/Analise-Agrofit)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luan-vsd&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://stats-luan-vsd.vercel.app/api?username=luan-vsd&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-vsd&layout=compact&theme=radical)
+![Linguagens mais usadas](https://stats-luan-vsd.vercel.app/api/top-langs/?username=luan-vsd&layout=compact&theme=radical)
 
 ---
 

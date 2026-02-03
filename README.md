@@ -29,7 +29,7 @@
 
 ## 📂 Projetos em Destaque
 
-![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=github_dark&locale=pt-br)
+[![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=github_dark&locale=pt-br)](https://github.com/luan-vsd/Analise-Agrofit)
 
 ---
 

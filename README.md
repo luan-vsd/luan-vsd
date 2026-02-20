@@ -6,11 +6,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 📊 Atualmente trabalhando em análises exploratórias de dados públicos
-- 🌱 Aprendendo **Análise de dados** e **Visualização de dados**
-- 🎯 Focado em projetos de **dados do agronegócio** *(por enquanto)*
-- 🔍 Explorando padrões em bases como **Agrofit** *(por enquanto)*
-
+Saí do dia a dia do agronegócio, onde captei e fiz entrega técinica de mais de R$ 1 milhão em contratos e coordenei equipes em 6 estados, porque percebi que o que eu realmente amava era resolver problemas com dados.
+Hoje, estou mergulhado no mundo da tecnologia, focado em unir o rigor analítico que aprendi na UnB com o poder da Inteligência Artificial para criar soluções que facilitem a vida real.
+- 🧠 O que estou fazendo agora: Estudando a fundo como criar Agentes de IA (framework Agno) na Asimov Academy. Quero que a IA não seja apenas um chat, mas uma ferramenta que executa tarefas e ajuda empresas a crescerem.
+- 🚀 Minha motivação: Acredito na meritocracia e no esforço constante. Minha transição de carreira é movida por curiosidade e muita "mão na massa".
+- 📊 Meu ponto de partida: O projeto Agrofit, onde encarei o desafio de limpar e organizar dados brutos do MAPA para encontrar padrões de mercado.
 ---
 
 ## 🛠️ Stack
@@ -25,11 +25,21 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
+**O que estou construindo agora:**
+- ✍️ Engenharia de Prompt: Aprendendo a "conversar" com modelos para extrair o melhor deles.
+- 🤖 Agentes Autônomos: Estudando como dar "ferramentas" e "memória" para a IA agir por conta própria.
+- ⚡ Framework Agno: Focado em criar automações que realmente funcionam no dia a dia.
+
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Um pouco do meu trabalho
+
+Este foi meu primeiro grande mergulho em dados reais. Peguei uma base "suja" e complexa sobre defensivos agrícolas e transformei em insights claros sobre biológicos e concentração de mercado.
 
 [![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=github_dark&locale=pt-br)](https://github.com/luan-vsd/Analise-Agrofit)
+
+Estarei documentando meus avanços com a Asimov Academy. Em breve, você verá protótipos de agentes pesquisadores e automações que estou desenvolvendo.
+
 
 ---
 
@@ -45,7 +55,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luan-vsd/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luanvinicius@pm.me)
-
----
-
-💡 *"Dados não mentem, mas precisam ser ouvidos."*

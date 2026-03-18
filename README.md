@@ -1,6 +1,6 @@
 # 🌾 Olá! Sou o Luan Vinícius
 
-> Transformando dados em decisões | Analista de Dados | Python Enthusiast
+> Transformando dados em decisões | Engenheiro Agrônomo | Analista de Dados | Python Enthusiast
 
 ---
 
@@ -16,14 +16,13 @@ Hoje, estou mergulhado no mundo da tecnologia, focado em unir o rigor analítico
 ## 🛠️ Stack
 
 **Linguagens:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 **Bibliotecas / Ferramentas:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 
 **O que estou construindo agora:**
 - ✍️ Engenharia de Prompt: Aprendendo a "conversar" com modelos para extrair o melhor deles.
@@ -38,8 +37,11 @@ Este foi meu primeiro grande mergulho em dados reais. Peguei uma base "suja" e c
 
 [![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=Analise-Agrofit&theme=github_dark&locale=pt-br)](https://github.com/luan-vsd/Analise-Agrofit)
 
-Estarei documentando meus avanços com a Asimov Academy. Em breve, você verá protótipos de agentes pesquisadores e automações que estou desenvolvendo.
+Já esse projeto foi onde utilizei agentes de IA para guiar a construção de um aplicativo Shiny em R para análise estatística de dados agrícolas (muito a ver com meu background).
 
+[![Agrofit Analysis](https://stats-luan-vsd.vercel.app/api/pin/?username=luan-vsd&repo=StatAgro&theme=github_dark&locale=pt-br)](https://github.com/luan-vsd/StatAgro)
+
+Estarei documentando meus avanços com a Asimov Academy. Em breve, você verá protótipos de agentes pesquisadores e automações que estou desenvolvendo.
 
 ---
 
@@ -53,5 +55,5 @@ Estarei documentando meus avanços com a Asimov Academy. Em breve, você verá p
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luan-vsd/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luanvinicius@pm.me)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luan-vsd/)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:luanvinicius@pm.me)
